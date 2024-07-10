@@ -1584,6 +1584,7 @@ progress {
     .col-lg-10 {
         flex: 0 0 auto;
         width: 83.33333333%
+        
     }
 
     .col-lg-11 {
@@ -2395,6 +2396,7 @@ progress {
     font-size: .875em;
     color: var(--bs-secondary-color)
 }
+
 
 .form-control {
     display: block;
@@ -4955,7 +4957,7 @@ fieldset:disabled .btn {
     min-width: 0;
     height: var(--bs-card-height);
     word-wrap: break-word;
-    background-color: var(--bs-card-bg);
+    background-color: lightgray;
     background-clip: border-box;
     border: var(--bs-card-border-width) solid var(--bs-card-border-color);
     border-radius: var(--bs-card-border-radius)
@@ -4995,7 +4997,7 @@ fieldset:disabled .btn {
 }
 
 .card:hover {
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 8px 16px 0 rgba(255, 255, 255, 0.401);
   }
 
 .card-title {
