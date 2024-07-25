@@ -211,7 +211,7 @@ hr {
 }
 
 .hero {
-    background: url('images/backgroundTwo.webp') no-repeat center center/cover;
+    background: url('images/BackgroundTwo.jpg') no-repeat center center/cover;
     color: white;
     height: 100vh;
     display: flex;
