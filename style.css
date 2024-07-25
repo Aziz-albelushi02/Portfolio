@@ -210,6 +210,23 @@ hr {
     opacity: .25
 }
 
+.hero {
+    background: url('images/backgroundTwo.webp') no-repeat center center/cover;
+    color: white;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.hero h1 {
+    font-size: 4rem;
+    
+}
+.hero p {
+    font-size: 1.5rem;
+}
+
 .h1,
 .h2,
 .h3,
